@@ -1,0 +1,12 @@
+# Exclude any build artifacts
+# e.g. exploits/linux/vulndev/.vulndev.ko.cmd
+# exploits/linux/vulndev/.vulndev.o.d
+# or any other build artifacts
+
+*.ko
+*.o
+*.cmd
+*.d
+*.mod.c
+*.symvers
+*.order
