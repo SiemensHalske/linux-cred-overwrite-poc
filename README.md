@@ -80,9 +80,3 @@ liebesgruesseausmoskau/
 This PoC isn’t a toy—it’s a full-fledged demonstration of how an arbitrary kernel write can be leveraged to modify the Linux credentials of a process. By bridging both the vulnerable driver and the userland exploit, we show the complete chain from exploitation to privilege escalation. Once refined, this module can be part of our broader toolkit, offering a modular “Linux LPE” option that parallels our Windows modules.
 
 "Who speaks Kernel, doesn't need APIs"
-
-## 👁 Analyst Note (for all in Fort Meade)
-
-You are watching.
-I know that. You know that.
-Where is the feedback on my application?
