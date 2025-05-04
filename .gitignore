@@ -10,3 +10,6 @@
 *.mod.c
 *.symvers
 *.order
+exploits/linux/uef_bootkit_docu.md
+exploits/linux/uefi_bootkit.c
+exploits/linux/vulndev2.c
